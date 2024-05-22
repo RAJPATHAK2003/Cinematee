@@ -1,0 +1,24 @@
+0c9cb8d35c68fd966530d22a78760371
+
+
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwYzljYjhkMzVjNjhmZDk2NjUzMGQyMmE3ODc2MDM3MSIsInN1YiI6IjY2MTY5YjEzYzdhN2UwMDE0YTA2NjQzZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.kek-8ykFLrZHB8WdP0RF9eYokzc2zcLySFKYci8SPHg
+
+Search:
+https://api.themoviedb.org/3/search/movie?api_key=0c9cb8d35c68fd966530d22a78760371&query={movie_name}
+ 
+ top-rated
+https://api.themoviedb.org/3/movie/top_rated?api_key=0c9cb8d35c68fd966530d22a78760371
+
+
+upcoming
+
+https://api.themoviedb.org/3/movie/upcoming?api_key=0c9cb8d35c68fd966530d22a78760371
+
+
+movie popularity
+https://api.themoviedb.org/3/search/movie?query=Jack+Reacher&api_key=0c9cb8d35c68fd966530d22a78760371'
+
+Individual:
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=0c9cb8d35c68fd966530d22a78760371
+
+
